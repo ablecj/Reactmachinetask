@@ -1,0 +1,24 @@
+.card-inner {
+    margin-top: 20px; 
+    
+  }
+  
+  .ant-card {
+    text-align: center; 
+    height: 400px;
+  }
+  
+  .ant-card-cover img {
+    max-width: 100%; 
+  }
+  
+  .ant-card-body h4 {
+    margin-top: 1px; 
+  }
+  
+  .ant-card-body p {
+    margin-top: 3px; 
+  }
+  .social-media-cont img{
+    margin: 5px;
+  }
